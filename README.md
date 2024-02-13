@@ -9,6 +9,12 @@
 * Общий репозиторий со всеми играми-заглушками, разработанными во время фриланс-подработки на компанию "OptionWay"
 * Учебный итоговый [дипломный проект](https://github.com/volonter08/Diplom-of-Netology) по завершении курса "Android-разработчик" от компании Нетологии
 
+Сертификаты: 
+- Курс "Основы Java" <object data="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(2).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(2).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 <!--
 **volonter08/volonter08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
