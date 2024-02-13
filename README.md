@@ -10,7 +10,7 @@
 * Учебный итоговый [дипломный проект](https://github.com/volonter08/Diplom-of-Netology) по завершении курса "Android-разработчик" от компании Нетологии
 
 ### Сертификаты: 
-1.Курс "Android-разработчик с нуля"
+1. Курс "Android-разработчик с нуля"
   
   ![Image alt](https://github.com/volonter08/certificates-netology/blob/main/certificate%20(1)_page-0001.jpg)
 2. Курс "Основы Java"
