@@ -11,8 +11,7 @@
 
 Сертификаты: 
 - Курс "Основы Java" 
-    <embed src="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(2).pdf">
-    </embed>
+  ![Image alt](https://github.com/volonter08/certificates-netology/blob/main/certificate%20(1)_page-0001.jpg)
 <!--
 **volonter08/volonter08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
